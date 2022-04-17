@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: kishoreandra/workflows@master
         with:
           comment_tag_name: "daily.dev BOOKMARKS"
           feed_list: "https://api.daily.dev/rss/b/660247dd-f6e9-43e8-92d2-d028393a092d"
