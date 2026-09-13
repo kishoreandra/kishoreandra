@@ -1,2 +1,46 @@
 <!--  daily.dev BOOKMARKS:START -->
 <!--  daily.dev BOOKMARKS:END -->
+
+### 👋 Hi, I'm Kishore Kumar Andra
+
+![GitHub Profile View](https://komarev.com/ghpvc/?username=kishoreandra&color=blueviolet)
+
+🎯 **Focusing** - Learning responsive web design 😉  
+🌱 **Currently learning** - JavaScript, React, and RWD  
+👀 **Interests** - Exploring tech and building web applications
+
+---
+
+### 📊 GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kishoreandra&layout=compact&theme=radical)](https://github.com/kishoreandra/github-readme-stats)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kishoreandra&show_icons=true&theme=radical&count_private=true)](https://github.com/kishoreandra)
+
+---
+
+### 💻 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📫 How to reach me
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishoreandra)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/kishore_kch)
+
+---
+
+### 🌟 Recent Activity
+
+<!--  daily.dev BOOKMARKS:START -->
+<!--  daily.dev BOOKMARKS:END -->
+
+---
+
+⭐ From [kishoreandra](https://github.com/kishoreandra)
