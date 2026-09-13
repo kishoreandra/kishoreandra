@@ -3,8 +3,6 @@
 
 ### 👋 Hi, I'm Kishore Kumar Andra
 
-![GitHub Profile View](https://komarev.com/ghpvc/?username=kishoreandra&color=blueviolet)
-
 🎯 **Focusing** - Learning responsive web design 😉  
 🌱 **Currently learning** - JavaScript, React, and RWD  
 👀 **Interests** - Exploring tech and building web applications
