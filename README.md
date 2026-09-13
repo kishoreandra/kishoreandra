@@ -15,7 +15,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kishoreandra&layout=compact&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kishoreandra&show_icons=true&theme=radical&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kishoreandra&show_icons=true&theme=radical&count_private=true&hide_rank=true)
 
 ---
 
@@ -48,7 +48,9 @@
 
 ### 🎯 About Me
 
-**Active Trader & Speculator** — I build tools for myself first. [`kch-tv`](https://github.com/kishoreandra/kch-tv) is my personal trading terminal built to support my trading workflow.
+**Active Trader & Speculator** — I build tools for myself first.
+
+[`kch-tv`](https://github.com/kishoreandra/kch-tv) is my personal trading terminal built to support my trading workflow. Currently in **beta** and kept **private** since it's tailored specifically for my trading setup.
 
 ---
 
