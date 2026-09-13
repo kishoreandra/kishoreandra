@@ -11,11 +11,12 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 My GitHub Statistics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kishoreandra&layout=compact&theme=radical)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kishoreandra&show_icons=true&theme=radical&count_private=true&hide_rank=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kishoreandra&show_icons=true&theme=radical&count_private=true" alt="kishoreandra's GitHub Stats" height="192px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishoreandra&layout=compact&theme=radical" alt="kishoreandra's Top Languages" height="192px" />
+</p>
 
 ---
 
