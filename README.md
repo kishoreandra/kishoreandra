@@ -3,9 +3,9 @@
 
 ### 👋 Hi, I'm Kishore Kumar Andra
 
-🎯 **Focusing** - Learning responsive web design 😉  
-🌱 **Currently learning** - JavaScript, React, and RWD  
-👀 **Interests** - Exploring tech and building web applications
+🎯 **Focusing** - Mostly on fast moving trends, X is my place and speculating is my hobby 😉  
+🌱 **Currently learning** - How to use AI productively !!
+👀 **Interests** - Exploring software tech and building web applications out of curiosity !!
 
 ---
 
