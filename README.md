@@ -4,7 +4,7 @@
 ### 👋 Hi, I'm Kishore Kumar Andra
 
 🎯 **Focusing** - Mostly on fast moving trends, X is my place and speculating is my hobby 😉  
-🌱 **Currently learning** - How to use AI productively !!
+🌱 **Currently learning** - How to use AI productively !!\
 👀 **Interests** - Exploring software tech and building web applications out of curiosity !!
 
 ---
@@ -38,10 +38,10 @@
 
 ### 🎯 About Me
 
-**Active Trader & Speculator** — I build tools for myself first.
+**Active Trader & Speculator** — I try to build tools for myself first on my free time, mostly during weekends or late nights !! 
 
 [`kch-tv`](https://github.com/kishoreandra/kch-tv) is my personal trading terminal built to support my trading workflow. Currently in **beta** and kept **private** since it's tailored specifically for my trading setup.
 
 ---
 
-⭐ From [kishoreandra](https://github.com/kishoreandra)
+⭐ Be Kind and Be Curious !! 
